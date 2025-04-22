@@ -1,4 +1,12 @@
-## Hi there 👋
+<a href="www.linkedin.com/in/snigdha-sucharita-sahu-2885141b9" target="_blank"> <img align="right" src="https://avatars.githubusercontent.com/u/your-github-id" height="144px" style="border-radius: 50%;"/> </a>
+
+# Hi there 👋🏼
+
+## I'm Snigdha Sucharita Sahu
+Welcome to my corner of GitHub!  
+I’m a backend developer who enjoys building things that live behind the scenes — APIs, databases, automation, and the occasional chaos-taming script.  
+I brew magic with **Node.js**, and love making systems that (usually) don’t explode.  
+Powered by ☕ caffeine, 💡 curiosity, and those tiny “aha!” moments that make debugging worth it.
 
 <!--
 **SnigdhaSucharita/SnigdhaSucharita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
