@@ -1,4 +1,4 @@
-<a href="www.linkedin.com/in/snigdha-sucharita-sahu-2885141b9" target="_blank"> <img align="right" src="https://avatars.githubusercontent.com/u/28899097?v=4" height="144px" style="border-radius: 50%;"/> </a>
+<a href="www.linkedin.com/in/snigdha-sucharita-sahu-2885141b9" target="_blank"> <img align="right" src="https://github.com/SnigdhaSucharita/SnigdhaSucharita/raw/main/avatar.jpeg" height="144px" /> </a>
 
 # Hi there 👋🏼
 
