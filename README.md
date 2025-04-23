@@ -1,4 +1,9 @@
-<a href="www.linkedin.com/in/snigdha-sucharita-sahu-2885141b9" target="_blank"> <img align="right" src="https://github.com/SnigdhaSucharita/SnigdhaSucharita/raw/main/avatar.jpeg" height="200px" style="background-color: white;" /> </a>
+<a href="https://www.linkedin.com/in/snigdha-sucharita-sahu-2885141b9" target="_blank">
+  <div style="background-color: white; border-radius: 50%; width: 200px; height: 200px; overflow: hidden; display: inline-block;">
+    <img src="https://github.com/SnigdhaSucharita/SnigdhaSucharita/raw/main/avatar.jpeg" height="200" width="200" style="object-fit: cover;" />
+  </div>
+</a>
+
 
 # Hi there 👋🏼
 
