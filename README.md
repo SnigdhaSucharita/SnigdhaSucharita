@@ -4,7 +4,7 @@
 
 # 👋🏼 Hi, I'm Snigdha Sucharita Sahu
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F78CB3&center=true&width=435&lines=Hi!+I'm+Snigdha+Sucharita+Sahu;Backend+Dev+%7C+Curious+Coder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F78CB3&center=true&width=435&lines=Fulltime debugger;Curious+coder)](https://git.io/typing-svg)
 
 🧙‍♀️ Welcome to my corner of GitHub!  
 I'm a backend developer who loves building APIs, whispering to databases, and occasionally arguing with my terminal.  
