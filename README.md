@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/snigdha-sucharita-sahu-2885141b9" target="_blank">
-  <img align="right" src="https://github.com/SnigdhaSucharita/SnigdhaSucharita/raw/main/avatar.png" height="144px" />
+  <img align="right" src="https://github.com/SnigdhaSucharita/SnigdhaSucharita/raw/main/avatar.png" height="144px" style="background-color: white; border-radius: 50%; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
 </a>
 
 # Hi there 👋🏼
