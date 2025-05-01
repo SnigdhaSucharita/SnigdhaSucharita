@@ -1,14 +1,14 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=SnigdhaSucharita&label=Visitors&color=9A66FF&style=flat-square" alt="Profile Views" />
+</p>
+
 <a href="https://www.linkedin.com/in/snigdha-sucharita-sahu-2885141b9" target="_blank">
   <img align="right" src="https://github.com/SnigdhaSucharita/SnigdhaSucharita/raw/main/avatar.png" height="144px" />
 </a>
 
 # 👋🏼 Hi, I'm Snigdha Sucharita Sahu
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F78CB3&center=true&width=435&lines=Fulltime+debugger;Curious+coder)](https://git.io/typing-svg)
-
-🧙‍♀️ Welcome to my corner of GitHub!  
-I'm a backend developer who loves building APIs, whispering to databases, and occasionally arguing with my terminal.  
-Currently brewing cool stuff with Node.js, Sequelize, and Supabase ☕✨
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F78CB3&center=true&width=435&lines=Curious+coder+%7C+Full-time+debugger;Engineer+by+degree,+developer+by+choice)](https://git.io/typing-svg)
 
 Welcome to my corner of GitHub!  
 I’m a backend developer who enjoys building things that live behind the scenes — APIs, databases, automation, and the occasional chaos-taming script. I brew magic with **Node.js**, and love making systems that (usually) don’t explode. Powered by ☕ caffeine, 💡 curiosity, and those tiny “aha!” moments that make debugging worth it.
