@@ -8,7 +8,7 @@
 
 # 👋🏼 Hi, I'm Snigdha Sucharita Sahu
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F78CB3&left=true&width=435&lines=Curious+coder;Full-time+debugger)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F78CB3&center=true&width=435&lines=Curious+coder;Full-time+debugger)](https://git.io/typing-svg)
  
 I’m a backend developer who enjoys building things that live behind the scenes — APIs, databases, automation, and the occasional chaos-taming script. I brew magic with **Node.js**, and love making systems that (usually) don’t explode. Powered by ☕ caffeine, 💡 curiosity, and those tiny “aha!” moments that make debugging worth it.
 
