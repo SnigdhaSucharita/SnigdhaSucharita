@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🔍 Fun Facts
-I'm a Backend Developer with a strong foundation in engineering and a fascination for how things work under the hood. I graduated in Ceramic Engineering from NIT Rourkela, and my journey from circuits to code has been nothing short of exciting. I love building things that do something — from hardware projects like a line-follower robot to backend systems that trigger Discord alerts in real-time. I graduated in Ceramic Engineering from NIT Rourkela, and my journey from circuits to code has been nothing short of exciting. When I’m not elbow-deep in a bug fix, I’m probably learning something new in the world of software architecture or reading docs like novels.
+I'm a Backend Developer with a strong foundation in engineering and a fascination for how things work under the hood. I graduated in Ceramic Engineering from NIT Rourkela, and my journey from circuits to code has been nothing short of exciting. I love building things that do something — from hardware projects like a line-follower robot to backend systems that trigger Discord alerts in real-time. When I’m not elbow-deep in a bug fix, I’m probably learning something new in the world of software architecture or reading docs like novels.
 
 ### 💡 Interests
 - Backend architecture and API design
